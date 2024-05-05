@@ -80,7 +80,7 @@ h6 {
 .card_button {
 	background-color: hsl(0, 0%, 100%);
 	border: 0;
-	border-radius: 0.5rem;
+	border-radius: 0.2rem;
 	box-sizing: border-box;
 	color: hsl(221, 39%, 11%);
 	font-size: 0.875rem;
@@ -90,8 +90,8 @@ h6 {
 	text-align: center;
 	text-decoration: none hsl(216, 12%, 84%) solid;
 	text-decoration-thickness: auto;
-	box-shadow: 0 1px 3px 0 hsla(0, 0%, 0%, 0.1),
-		0 1px 2px 0 hsla(0, 0%, 0%, 0.06);
+	box-shadow: 0 4px 3px 0 hsla(0, 0%, 0%, 0.1),
+		0 4px 2px 0 hsla(0, 0%, 0%, 0.06);
 	cursor: pointer;
 	user-select: none;
 	-webkit-user-select: none;
