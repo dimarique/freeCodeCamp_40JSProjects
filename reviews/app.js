@@ -9,7 +9,7 @@ const people = [
 	{
 		firstName: 'Elysia',
 		lastName: 'Trainor',
-		image: '/img/elysiaTrainor.jpg',
+		image: 'img/elysiaTrainor.jpg',
 		about:
 			'My name is Elysia Trainor and I work as a designer for about 2 years. I\'ve recently gotten back into designing wedding and prom dresses. Mostly because I got back into the market after doing "girl jobs" for over a year. I still love doing design work for weddings',
 	},
@@ -23,7 +23,7 @@ const people = [
 	{
 		firstName: 'Shannon',
 		lastName: 'Seymour',
-		image: '/img/shannonSeymour.jpg',
+		image: 'img/shannonSeymour.jpg',
 		about:
 			"I'm Shannon Seymour, VC of this company. I've spent the last twelve years of my life devoting myself to art and craft. I'm not sure if this has been a good thing or not. I haven't exactly been balanced in my life but it's definitely made me a better person.",
 	},
